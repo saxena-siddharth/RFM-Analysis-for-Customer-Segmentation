@@ -1,1 +1,3 @@
 # RFM-Analysis-for-Customer-Segmentation
+
+With this Analysis, organizations can identify which of the customers are most likely to respond to promotions by segmenting them into various categories. It is based on the marketing principle (Pareto) that 80% of the business comes from 20% of the customers. With this project, organizations can also identify these top performing customers. Once we have classified a customer into a particular segment, we can work towards increasing the retention rate, take appropriate action to increase his/her lifetime value (CLV) and thus increase the response rate and drive top line.[image](https://user-images.githubusercontent.com/72713465/120056299-33216f80-c009-11eb-97ea-3774a07786b5.png)
